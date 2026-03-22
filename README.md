@@ -49,17 +49,16 @@ AutoForge-EmailSender/
 ## 🖼 Screenshots
 
 ### Main Interface
-![Main UI](assets/email_sender_main.png)
+![Main UI](assets/email%20sender_main.png)
 
 ### Settings
-![Settings](assets/email_sender_settings.png)
+![Settings](assets/email%20sender_settings.png)
 
 ### Contact Preview
-![Contacts](assets/email_sender_previewcontacts.png)
+![Contacts](assets/email%20sender_previewcontacts.png)
 
 ### Delivery Logs
-![Logs](assets/email_sender_deliverylogs.png)
-
+![Logs](assets/email%20sender_deliverylog.png)
 ---
 
 ## 📦 Requirements
