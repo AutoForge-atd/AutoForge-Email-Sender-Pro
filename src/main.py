@@ -1,10 +1,10 @@
 import tkinter as tk
-from gui import EmailSenderProGUI
+from gui import EmailSenderGUI 
 
 
 def main():
     root = tk.Tk()
-    EmailSenderProGUI(root)
+    app = EmailSenderGUI(root) 
     root.mainloop()
 
 
