@@ -1,0 +1,10 @@
+{
+    "company_name": "AutoForge",
+    "tagline": "Automated Tools Development",
+    "default_output_folder": "output",
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587,
+    "sender_email": "autoforge.atd@gmail.com",
+    "sender_name": "AutoForge",
+    "subject": "Test"
+}
