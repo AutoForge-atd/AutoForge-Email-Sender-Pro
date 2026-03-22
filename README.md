@@ -1,19 +1,33 @@
-AutoForge Email Sender Pro
 
-Features:
-- Load contacts from CSV
-- Personalize emails with placeholders
-- Attach an optional file
-- Send emails in bulk
-- Export delivery log
+# 🚀 AutoForge Email Sender Pro
 
-CSV format:
+Send personalized bulk emails in seconds with a clean, powerful desktop tool.
+
+---
+
+## ⚡ Features
+
+✔ Bulk email sending from CSV  
+✔ Personalized messages using `{name}`, `{email}`, `{company}`  
+✔ File attachments support  
+✔ Exportable delivery logs  
+✔ Clean, professional UI  
+
+---
+
+## 📊 How It Works
+
+1. Load your `contacts.csv`
+2. Enter your Gmail + App Password
+3. Write your message
+4. Attach a file (optional)
+5. Click **Send Emails**
+
+---
+
+## 🧾 CSV Format
+
+```csv
 email,name,company
-
-Placeholders supported:
-{name}
-{email}
-{company}
-
-Run:
-python src/main.py
+example@gmail.com,John Doe,ABC Corp
+demo@gmail.com,Jane Smith,XYZ Ltd
